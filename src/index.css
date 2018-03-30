@@ -1,3 +1,9 @@
+:root {
+  --primary-color: #2A009C;
+  --text-color: #2A009C;
+  --text-color-on-dark: #FFFFFF;
+}
+
 body {
   margin: 0;
   padding: 0;
